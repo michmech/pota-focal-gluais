@@ -4,9 +4,7 @@ The 'House Glossary' is an Irish-English dictionary for learners of Irish which 
 
 ## Licence
 
-Available under the [Creative Commons Attribution Non-Commercial Share-Alike License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
-
-## Sources
+Available under the [Creative Commons Attribution Non-Commercial Share-Alike License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 The license prohibits commercial exploitation. If you want to use the data for a commercial purpose, ask me first. If you're not sure whether what you have in mind constitutes commercial exploitation, discuss it with me.
 
